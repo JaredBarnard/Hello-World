@@ -1,2 +1,2 @@
 # Hello-World
-Homework Pg. 20
+Pg. 20
